@@ -69,38 +69,109 @@
             </div>
         </div>
 
-        <div class="container text-center mb-2">
-            <div class="row mb-3 pb-2">
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
-                <a href="#" class="col-md-6 my-2">
-                    <img src="gambar/1.jpg" class="img-fluid" alt="...">
-                </a>
+        <div class="container mb-3">
+            <div class="row justify-content-center">
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <a href="">
+                            <img src="gambar/1.jpg" class="card-img-top" alt="Projects 1" />
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 2" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 3" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 4" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 5" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 5" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 5" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 5" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="gambar/1.jpg" class="card-img-top" alt="Projects 5" />
+                        <div class="card-body">
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up
+                                the bulk of the card's content.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- </section> -->
