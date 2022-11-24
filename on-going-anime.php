@@ -36,16 +36,16 @@
                             <a class="nav-link" href="index.php">Beranda</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="anime-list.php">Anime List</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link active" href="on-going-anime.php">Anime On-going</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="batch-anime.php">Anime Batch</a>
                         </li>
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="index.php">Sosial Media</a>
-                        </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Cara Download</a>
+                            <a class="nav-link" href="cara-mendownload.php">Cara Download</a>
                         </li>
                     </ul>
                     <form class="d-flex" role="search">

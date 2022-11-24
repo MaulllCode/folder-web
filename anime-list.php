@@ -36,7 +36,7 @@
                             <a class="nav-link" href="index.php">Beranda</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="anime-list.php">Anime List</a>
+                            <a class="nav-link active" href="anime-list.php">Anime List</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="on-going-anime.php">Anime On-going</a>
@@ -45,7 +45,7 @@
                             <a class="nav-link" href="batch-anime.php">Anime Batch</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="cara-mendownload.php">Cara Download</a>
+                            <a class="nav-link" href="cara-mendownload.php">Cara Download</a>
                         </li>
                     </ul>
                     <form class="d-flex" role="search">
